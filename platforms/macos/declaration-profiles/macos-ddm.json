@@ -1,0 +1,8 @@
+{
+  "Type": "com.apple.configuration.softwareupdate.enforcement.specific",
+  "Identifier": "com.fleetdm.config.softwareupdate.macos-26.5",
+  "Payload": {
+    "TargetOSVersion": "26.5",
+    "TargetLocalDateTime": "2026-12-31T12:00:00"
+  }
+}
